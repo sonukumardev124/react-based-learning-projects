@@ -3,7 +3,7 @@ import Card from './Components/Card'
 function App() {
   return (
     <div>
-      <div className="parent-class">
+      <div className="parent">
         
       <Card user='John Doe' age={18} img="https://images.unsplash.com/photo-1613845205719-8c87760ab728?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3ltZXIlMjBib3l8ZW58MHx8MHx8fDA%3D"/>
       <Card user='Jane Smith' age={25} img="https://images.unsplash.com/photo-1614367674345-f414b2be3e5b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltZXIlMjBib3l8ZW58MHx8MHx8fDA%3D"/>
